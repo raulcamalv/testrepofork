@@ -109,8 +109,7 @@ void func(char *str, char c)
 
 int main(int argc, char *argv[])
 {
-
-  char source[] = "Hello, World!";
+    char source[] = "Hello, World!";
     int source_len = strlen(source);
 
     // Copy the first 5 characters of source to the position of index 0
