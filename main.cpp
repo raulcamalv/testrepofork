@@ -118,6 +118,7 @@ int main(int argc, char *argv[])
     memcpy(source, source + 5, 5);
 
     printf("Result: %s\n", source);
+
     return 0;
 }
 
